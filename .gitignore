@@ -103,6 +103,9 @@ _Chutzpah*
 Library/
 UserSettings/
 ProjectSettings/
+build/
+Temp/
+web_build/
 # Visual C++ cache files
 ipch/
 *.aps
